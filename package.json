@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "dhravya-api",
+  "version": "1.0.0",
+  "description": "This is a simple API that is meant to \"Do it all\" for you. It will fetch a random meme from reddit, and generate a QR code with the URL, and much, much more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subarna",
+  "license": "ISC"
+}
